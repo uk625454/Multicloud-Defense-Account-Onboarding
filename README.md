@@ -19,4 +19,5 @@ Additional Caveats
 
 An external ID is required for the CFT. This external ID can be generated once from multicloud defense controller UI and then used in the CFT and in the python file for multicloud defense account onboarding. 
 
-<img width="468" height="452" alt="image" src="https://github.com/user-attachments/assets/77ea088e-224c-4871-84c1-7e7b5ee281f5" />
+<img width="468" height="251" alt="image" src="https://github.com/user-attachments/assets/7743b5d8-c54f-468c-821f-cafaa48f8c55" />
+
