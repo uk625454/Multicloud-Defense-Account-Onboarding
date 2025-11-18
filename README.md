@@ -11,9 +11,13 @@ This file contains a function (enable_inventory_flow() ) that can be used to ena
 To run the files in the sample python folder, you can take the following steps inside the folder after you have populated the variables for the two files mentioned above:
 
 python3 -m venv mcd
+
 source mcd/bin/activate
+
 pip install requests
+
 python onboard-aws-account.py
+
 python enable-inventory.py
 
 Additional Caveats
