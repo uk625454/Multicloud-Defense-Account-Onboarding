@@ -20,6 +20,7 @@ python onboard-aws-account.py
 
 python enable-inventory.py
 
+
 Additional Caveats
 
 An external ID is required for the CFT. This external ID can be generated once from multicloud defense controller UI and then used in the CFT and in the python file for multicloud defense account onboarding. 
